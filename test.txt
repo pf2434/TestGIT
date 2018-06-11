@@ -1,1 +1,14 @@
-ceci est mon premier source GIT
+ceci est mon premier source GIT                 puis ma moficication du fichier
+bla bla code
+bla bla code
+bla bla code
+bla bla code
+bla bla code
+bla bla code
+bla bla code
+bla bla code
+bla bla code
+bla bla code
+bla bla code
+bla bla code
+fin bla bla code
